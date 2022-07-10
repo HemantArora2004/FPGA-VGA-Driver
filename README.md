@@ -11,7 +11,7 @@ I use an Intel Cyclone 10 LP FPGA; you may have to adjust the clock divider depe
 |clk|clock signal|2.5|2|
  
 
-## Outputs: 
+## Outputs
 |Name|Use|Voltage|Milliamps|
 |----|---|-------|--------|
 |hSync|horizontal synchronization|3.3 volts|maximum current|
