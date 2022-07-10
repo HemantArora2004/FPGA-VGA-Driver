@@ -8,7 +8,7 @@ I use an Intel Cyclone 10 LP FPGA; you may have to adjust the clock divider depe
 
 |Name|Use|Voltage|Milliamps|
 |----|---|-------|--------|
-|clk|clock signal|2.5|0|
+|clk|clock signal|2.5|2|
  
 
 ## Outputs: 
